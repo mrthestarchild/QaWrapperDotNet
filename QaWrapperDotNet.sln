@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaWrapperDotNet", "QaWrapperDotNet\QaWrapperDotNet.csproj", "{FC64D1A3-51E1-4034-83C2-E5CC88739B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaWrapperDotNet.Tests", "QaWrapperDotNet.Tests\QaWrapperDotNet.Tests.csproj", "{53F19880-46C1-491E-8AB5-E2D9FF447C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC64D1A3-51E1-4034-83C2-E5CC88739B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC64D1A3-51E1-4034-83C2-E5CC88739B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC64D1A3-51E1-4034-83C2-E5CC88739B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC64D1A3-51E1-4034-83C2-E5CC88739B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F19880-46C1-491E-8AB5-E2D9FF447C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F19880-46C1-491E-8AB5-E2D9FF447C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F19880-46C1-491E-8AB5-E2D9FF447C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F19880-46C1-491E-8AB5-E2D9FF447C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25D14CD-D5A3-4E45-BF22-CAF1A9EA11BC}
+	EndGlobalSection
+EndGlobal
